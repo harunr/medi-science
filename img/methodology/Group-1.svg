@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 382 382"
+	 style="enable-background:new 0 0 382 382;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#ECEDF2;}
+	.st2{fill:#C6CAD5;}
+	.st3{fill:#525C66;}
+	.st4{fill:#D81616;}
+	.st5{fill:#A0D9F2;}
+	.st6{fill:#423E3E;}
+</style>
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  bottomLeftOrigin="true" height="382" width="382" x="0" y="-382"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g>
+	<circle class="st0" cx="191" cy="191" r="191"/>
+	<g>
+		<polyline class="st1" points="189.2,67.2 310.3,67.2 310.3,311.5 72.1,311.5 72.1,67.2 104.9,67.2 		"/>
+		<polyline class="st2" points="189.2,67.2 310.3,67.2 310.3,92.3 72.1,92.3 72.1,67.2 104.9,67.2 		"/>
+		<path class="st3" d="M156.8,76.7h153.6H321c2.4,0,4.4-2,4.4-4.4V62c0-2.4-2-4.4-4.4-4.4H168h-41.9H61.4c-2.4,0-4.4,2-4.4,4.4v10.3
+			c0,2.4,2,4.4,4.4,4.4h10.7h57.8"/>
+		<circle class="st2" cx="147.1" cy="107.8" r="49.4"/>
+		<circle class="st0" cx="147.1" cy="102.4" r="49.4"/>
+		<path class="st4" d="M175.9,92.7h-16.9c-1.2,0-2.2-1-2.2-2.2V73.5c0-1.2-1-2.2-2.2-2.2h-15c-1.2,0-2.2,1-2.2,2.2v16.9
+			c0,1.2-1,2.2-2.2,2.2h-16.9c-1.2,0-2.2,1-2.2,2.2v15c0,1.2,1,2.2,2.2,2.2h16.9c1.2,0,2.2,1,2.2,2.2v16.9c0,1.2,1,2.2,2.2,2.2h15
+			c1.2,0,2.2-1,2.2-2.2v-16.9c0-1.2,1-2.2,2.2-2.2h16.9c1.2,0,2.2-1,2.2-2.2v-15C178.1,93.6,177.1,92.7,175.9,92.7z"/>
+		<g>
+			<rect x="221.9" y="168.3" class="st5" width="26.7" height="48.7"/>
+			<rect x="133.9" y="168.3" class="st5" width="26.7" height="48.7"/>
+			<rect x="265.9" y="168.3" class="st5" width="26.7" height="48.7"/>
+			<rect x="177.9" y="168.3" class="st5" width="26.7" height="48.7"/>
+			<rect x="89.8" y="168.3" class="st5" width="26.7" height="48.7"/>
+			<rect x="133.9" y="233.6" class="st5" width="26.7" height="48.7"/>
+			<rect x="177.9" y="233.6" class="st5" width="26.7" height="48.7"/>
+			<rect x="89.8" y="233.6" class="st5" width="26.7" height="48.7"/>
+			<rect x="221.9" y="103" class="st5" width="26.7" height="48.7"/>
+			<rect x="265.9" y="103" class="st5" width="26.7" height="48.7"/>
+		</g>
+		<g>
+			<path class="st0" d="M248.6,220.3h-26.7c-1.8,0-3.3-1.5-3.3-3.3v-48.7c0-1.8,1.5-3.3,3.3-3.3h26.7c1.8,0,3.3,1.5,3.3,3.3V217
+				C251.9,218.8,250.4,220.3,248.6,220.3z M225.2,213.7h20.1v-42.2h-20.1V213.7z"/>
+			<path class="st0" d="M160.6,220.3h-26.7c-1.8,0-3.3-1.5-3.3-3.3v-48.7c0-1.8,1.5-3.3,3.3-3.3h26.7c1.8,0,3.3,1.5,3.3,3.3V217
+				C163.8,218.8,162.4,220.3,160.6,220.3z M137.1,213.7h20.1v-42.2h-20.1V213.7z"/>
+			<path class="st0" d="M292.6,220.3h-26.7c-1.8,0-3.3-1.5-3.3-3.3v-48.7c0-1.8,1.5-3.3,3.3-3.3h26.7c1.8,0,3.3,1.5,3.3,3.3V217
+				C295.9,218.8,294.4,220.3,292.6,220.3z M269.2,213.7h20.1v-42.2h-20.1V213.7z"/>
+			<path class="st0" d="M204.6,220.3h-26.7c-1.8,0-3.3-1.5-3.3-3.3v-48.7c0-1.8,1.5-3.3,3.3-3.3h26.7c1.8,0,3.3,1.5,3.3,3.3V217
+				C207.9,218.8,206.4,220.3,204.6,220.3z M181.2,213.7h20.1v-42.2h-20.1V213.7L181.2,213.7z"/>
+			<path class="st0" d="M116.5,220.3H89.8c-1.8,0-3.3-1.5-3.3-3.3v-48.7c0-1.8,1.5-3.3,3.3-3.3h26.7c1.8,0,3.3,1.5,3.3,3.3V217
+				C119.8,218.8,118.4,220.3,116.5,220.3z M93.1,213.7h20.1v-42.2H93.1V213.7z"/>
+		</g>
+		<polygon class="st5" points="292.6,233.6 221.9,233.6 221.9,302 292.6,307.5 		"/>
+		<g>
+			<path class="st0" d="M295.9,304.7h-6.6v-67.8h-64.1v67.8h-6.6v-71.1c0-1.8,1.5-3.3,3.3-3.3h70.7c1.8,0,3.3,1.5,3.3,3.3
+				L295.9,304.7L295.9,304.7z"/>
+			<path class="st0" d="M160.6,285.6h-26.7c-1.8,0-3.3-1.5-3.3-3.3v-48.7c0-1.8,1.5-3.3,3.3-3.3h26.7c1.8,0,3.3,1.5,3.3,3.3v48.7
+				C163.8,284.1,162.4,285.6,160.6,285.6z M137.1,279h20.1v-42.2h-20.1V279z"/>
+			<path class="st0" d="M204.6,285.6h-26.7c-1.8,0-3.3-1.5-3.3-3.3v-48.7c0-1.8,1.5-3.3,3.3-3.3h26.7c1.8,0,3.3,1.5,3.3,3.3v48.7
+				C207.9,284.1,206.4,285.6,204.6,285.6z M181.2,279h20.1v-42.2h-20.1V279L181.2,279z"/>
+			<path class="st0" d="M116.5,285.6H89.8c-1.8,0-3.3-1.5-3.3-3.3v-48.7c0-1.8,1.5-3.3,3.3-3.3h26.7c1.8,0,3.3,1.5,3.3,3.3v48.7
+				C119.8,284.1,118.4,285.6,116.5,285.6z M93.1,279h20.1v-42.2H93.1V279z"/>
+			<path class="st0" d="M248.6,155h-26.7c-1.8,0-3.3-1.5-3.3-3.3V103c0-1.8,1.5-3.3,3.3-3.3h26.7c1.8,0,3.3,1.5,3.3,3.3v48.7
+				C251.9,153.5,250.4,155,248.6,155z M225.2,148.4h20.1v-42.2h-20.1V148.4z"/>
+			<path class="st0" d="M292.6,155h-26.7c-1.8,0-3.3-1.5-3.3-3.3V103c0-1.8,1.5-3.3,3.3-3.3h26.7c1.8,0,3.3,1.5,3.3,3.3v48.7
+				C295.9,153.5,294.4,155,292.6,155z M269.2,148.4h20.1v-42.2h-20.1V148.4z"/>
+			<rect x="221.9" y="247" class="st0" width="70.7" height="6.6"/>
+			<rect x="254" y="250.3" class="st0" width="6.6" height="57.2"/>
+			<rect x="133.9" y="245.9" class="st0" width="26.7" height="6.6"/>
+			<path class="st0" d="M204.6,252.5h-26.7v-6.6h23.4v-12.3h6.6v15.6C207.9,251,206.4,252.5,204.6,252.5z"/>
+			<rect x="89.8" y="245.9" class="st0" width="26.7" height="6.6"/>
+			<path class="st0" d="M292.6,187.2h-26.7v-6.6h23.4v-12.3h6.6v15.6C295.9,185.7,294.4,187.2,292.6,187.2z"/>
+			<rect x="177.9" y="180.6" class="st0" width="26.7" height="6.6"/>
+			<rect x="89.8" y="180.6" class="st0" width="26.7" height="6.6"/>
+			<rect x="133.9" y="180.6" class="st0" width="26.7" height="6.6"/>
+			<rect x="221.9" y="180.6" class="st0" width="26.7" height="6.6"/>
+			<path class="st0" d="M292.6,121.9h-26.7v-6.6h23.4V103h6.6v15.6C295.9,120.4,294.4,121.9,292.6,121.9z"/>
+			<rect x="221.9" y="115.3" class="st0" width="26.7" height="6.6"/>
+		</g>
+		<path class="st6" d="M317.4,302H65.1c-4.4,0-8,3.6-8,8v11h268.4v-11C325.4,305.6,321.8,302,317.4,302z"/>
+	</g>
+</g>
+</svg>
